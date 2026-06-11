@@ -1,6 +1,6 @@
 # PhD-thesis
 
-Scripts for whole-genome sequencing: DESeq2_RNA.R, GSEA_RNA.R
+Scripts for RNA-sequencing: DESeq2_RNA.R, GSEA_RNA.R
 
 Scripts for LC-MS analyses: limma_protein.R, GSEA_protein.R
 
