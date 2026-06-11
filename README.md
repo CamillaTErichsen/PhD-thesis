@@ -1,11 +1,12 @@
 # PhD-thesis
+Scripts used for analyses
 
-Scripts for RNA-sequencing: DESeq2_RNA.R, GSEA_RNA.R
+RNA-sequencing: RNA-Seq_DESeq2.R, RNA-Seq_GSEA.R
 
-Scripts for LC-MS analyses: limma_protein.R, GSEA_protein.R
+LC-MS proteomics: Proteomics_limma.R, Proteomics_GSEA.R
 
-Script for joint pathway analysis: joint-pathway_RNA-protein.R
+Joint pathway analysis: Protein-RNA_JointPathways.R
   
-Script for Nanostring analysis: limma_nano.R
+NanoString: NanoString_limma.R
 
-Scripts fMRI study: FunctionalConenctivity_fmri.ipynb, FC-genetics_fmri.ipynb, FAScore_fmri.ipynb
+fMRI study: fMRI_FunctionalConnectivity.ipynb, fMRI_PLSR-genes.m, fMRI_PLSR-genes-GSEA.R, fMRI_fALFF.ipynb
